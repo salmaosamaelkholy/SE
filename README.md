@@ -30,4 +30,6 @@ Conflict attempt 1
 
 Conflict attempt 3
 
+=======
 conflict attempt 2
+>>>>>>> 92c81e62a420f0e22d8fd0db7eb65fccea4e893a
