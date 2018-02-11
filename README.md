@@ -3,6 +3,7 @@
 Getting Started:
 =================
 This repo contains a project to test Github features.
+This is for Sprint 0
 
 Authors:
 =========
