@@ -18,8 +18,4 @@ About:
 
 
 Conflict attempt 1
-<<<<<<< HEAD
 Conflict attempt 2
-=======
-Conf attempt 2
->>>>>>> parent of 1cb8704... conflict 2 fixed
