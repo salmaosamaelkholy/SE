@@ -19,6 +19,7 @@ About:
 
 Conflict attempt 1
 
+<<<<<<< HEAD
 
 
 
@@ -29,3 +30,4 @@ Conflict attempt 1
 
 Conflict attempt 3
 
+conflict attempt 2
