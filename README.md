@@ -3,6 +3,7 @@
 Getting Started:
 =================
 This repo contains a project to test Github features.
+This is for Sprint 0
 
 Authors:
 =========
@@ -13,4 +14,5 @@ About:
 =======
 1- Karim ElGhandour: I love F.R.I.E.N.D.S
 2- Mohamed Lotfy:    hey 
+
 
